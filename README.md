@@ -1,25 +1,23 @@
 # Lending / Loan Tracker App
 
-A simple and efficient web app to track loans and lending activities. It helps users manage money lent to others, borrowed amounts, due dates, and repayments.
+A simple and efficient web app for lending activities. It helps users manage money lent to others, borrowed items, dates and actions.
 
 ## 🚀 Features
-- Add new loans/lending records with details (amount, person, date, purpose).
+- Add new lending records with details (name, type, date, additional details).
 - View all active loans in a clean list.
 - Track repayments and update loan status.
-- Filter and sort loans (e.g., by due date or borrower).
-- Dashboard summary showing total lent, borrowed, and pending repayments.
+- Dashboard summary showing total lent, borrowed.
 - Responsive and user-friendly UI.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** Pico CSS (or Tailwind/Bootstrap if used)  
-- **Storage:** Local Storage / Mock API (mention what you used)  
+- **Styling:** Pico CSS   
+- **Storage:** Mirage JS  
 
-## 📸 Screenshots
-_Add screenshots of your app here to showcase UI._  
+## 📸 Screenshots 
 Example:  
-![Dashboard Screenshot](./screenshot1.png)  
-![Loan Form Screenshot](./screenshot2.png)  
+![Dashboard Screenshot](Screenshot 2025-08-22 160245.png)  
+![Loan Form Screenshot](Screenshot 2025-08-22 160347.png)  
 
 ## ⚡ How to Use
 1. Clone the repository:  
